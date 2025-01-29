@@ -1,4 +1,5 @@
 # NumPy Project: Basics, Advanced Concepts, and IPL Data Analysis
+![numpy-1](https://github.com/user-attachments/assets/c284a770-e685-4f74-8016-161f1b775131)
 
 ## What is NumPy?
 NumPy (Numerical Python) is a powerful Python library for numerical computing. It provides support for multi-dimensional arrays, matrices, and a collection of mathematical functions to perform operations on these data structures efficiently. NumPy is the foundation for many data science and machine learning libraries, making it an essential tool for data analysis and scientific computing.
